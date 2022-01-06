@@ -12,7 +12,7 @@ Link : https://github.com/AI-Enola/PUBLIC-IP-ADDRESS-ALERT-AUTOMATION
 
 Note : 
 
-Lines : 28,29,32,3 and 36 in email_io.py need to be filled with your infomations such as : 
+Lines 28,29,32,3 and 36 in email_io.py need to be filled with your informations such as 
 
         # Sender
         self.EMAIL_ADDRESS = 'EMAIL_ADDRESS'
@@ -24,3 +24,5 @@ Lines : 28,29,32,3 and 36 in email_io.py need to be filled with your infomations
         # SMTP SERVER INFO
         self.SMTP = 'smtp-mail.outlook.com' # Example with outlook SMTP server domain - CAN BE CHANGED
         self.SMTP_PORT = 587 # Example with outlook SMTP server port - CAN BE CHANGED
+        
+In get_website_status.py you need to provide website domain name or IP Address.
