@@ -12,7 +12,7 @@ Link : https://github.com/AI-Enola/PUBLIC-IP-ADDRESS-ALERT-AUTOMATION
 
 Note : 
 
-Lines : 28,29,32,35,36 in email_io.py need to be filled wit your infomations such as : 
+Lines : 28,29,32,3 and 36 in email_io.py need to be filled with your infomations such as : 
 
         # Sender
         self.EMAIL_ADDRESS = 'EMAIL_ADDRESS'
